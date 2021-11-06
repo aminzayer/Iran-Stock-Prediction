@@ -18,6 +18,4 @@ Prtext = get_display(reshaped_text)
 #Preprocessing & clean Data & Create Data Frame
 df=ticker.history[['jdate', 'volume' ,'close']]  # Fetch History of trades & clean data
 df.ta.ema(close='close',length=10,append=True)   # Add Technical feature EMA 
-df=df.iloc[10:]                                # Drop 10 NaN Values
-
-
+df=df.iloc[10:]                                  # Drop 10 NaN Values
