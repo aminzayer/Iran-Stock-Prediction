@@ -1,4 +1,4 @@
-# iran-stock - Data Science Project
+# Iran-Stock-LSTM-Prediction - Data Science Project
 Iran Stocks Forecast With LSTM Model from Keras Library
 
 # Introduction
