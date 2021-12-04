@@ -6,4 +6,6 @@ LSTMs are very powerful in sequence prediction problems because they’re able t
 
 This is important in our case because the previous price of a stock is crucial in predicting its future price.
 
+Run Project in Kaggle ===> https://www.kaggle.com/aminzayer/iran-stock-price-lstm-predict
+
 Amin Zayeromali   ===> Linkedin Profile : https://ir.linkedin.com/in/aminzayeromali
