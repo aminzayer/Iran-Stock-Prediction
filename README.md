@@ -1,6 +1,5 @@
-# iran-stock
-Iran Stocks Forecast
-# Introduction & Import Python libs
+# iran-stock - Data Science Project
+Iran Stocks Forecast With LSTM Model from Keras Library
 
 # Introduction
 LSTMs are very powerful in sequence prediction problems because they’re able to store past information.
